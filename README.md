@@ -1,4 +1,4 @@
-# Optical Oscillators V0.1 9/12/2021
+# Optical Oscillators V0.1 
 
 various scripts to simulate optical oscillators using transmission line theory
 
