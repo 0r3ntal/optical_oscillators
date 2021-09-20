@@ -9,4 +9,4 @@ Figure 11: Contour plot dual oscillators uncoupled
 plotly
 uncoupled_oscillator.html: contour plot of dual oscillators uncoupled
 
-v0.1
+v0.2
