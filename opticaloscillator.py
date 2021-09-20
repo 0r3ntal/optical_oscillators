@@ -1,7 +1,5 @@
 """
 9_4_2021
-silly code to do something because one can Oren
-uncoupled lonely oscillators dancing to Low Rider
 
 Sources: (Oscillator formulation taken from Transmission Line Theory)
 [1] R. Ulrich (Mar 1967). "Far infrared properties of metallic mesh and its complementary structure". Infrared Physics. 7 (1): 37–50.
