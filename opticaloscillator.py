@@ -157,21 +157,24 @@ if __name__ == "__main__":
     plt.plot(meshConfig1.w, meshConfig1.TF1, label='TF1')
     plt.plot(meshConfig1.w, np.real(meshConfig1.tf1), 'bx', label='Re[tf1]')
     plt.plot(meshConfig1.w, np.imag(meshConfig1.tf1), label='IM[tf1]')
-    plt.legend(loc="upper left")
+    plt.legend(loc="upper right")
     plt.grid('True')
     plt.xlabel(r'$\omega$')
 
     # plotting phase
     plot2 = plt.figure(2)
     plt.plot(meshConfig1.w, meshConfig1.phi, label='phase')
+    plt.legend(loc="upper right")
     plt.xlim([0, 0.1])
     plt.ylim([-100, 100])
-    plot2 = plt.figure(3)
+
+
+    plot3 = plt.figure(3)
     plt.plot(meshConfig1.w, meshConfig1.group_delay, label='group delay')
     plt.legend(loc="upper right")
 
     # plotting groupdelay
-    plot3 = plt.figure(4)
+    plot4 = plt.figure(4)
     plt.plot(meshConfig1.w, meshConfig1.dispersion, label='Dispersion Relation')
     plt.legend(loc="upper right")
 
