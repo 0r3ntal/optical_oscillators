@@ -14,6 +14,11 @@ This repository contains various scripts to simulate optical oscillators using t
 ### Output
 <iframe src=".\images_outputs\uncoupled_oscillator.html" width="100%" height="500px"></iframe>
 
+![Image description](.\images_outputs\Figure_1._Transmission_Real_Image_Components.png)
+![Image description](/path/to/image.jpg)
+![Image description](/path/to/image.jpg)
+![Image description](/path/to/image.jpg)
+
 
 ### Contact information
 email: oren.sternberg@icloud.com
