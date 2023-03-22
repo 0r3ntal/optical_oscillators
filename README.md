@@ -12,12 +12,9 @@ This repository contains various scripts to simulate optical oscillators using t
 * see [requirements.txt](https://github.com/0r3ntal/optical_oscillators/blob/main/requirements.txt) for python libraries
 
 ### Output
-<iframe src=".\images_outputs\uncoupled_oscillator.html" width="100%" height="500px"></iframe>
 
-![Image description](.\images_outputs\Figure_1._Transmission_Real_Image_Components.png)
-![Image description](/path/to/image.jpg)
-![Image description](/path/to/image.jpg)
-![Image description](/path/to/image.jpg)
+![Real and Imagenry Components](.\images_outputs\Figure_1._Transmission_Real_Image_Components.png)
+![Uncoupled dual oscillators](.\images_outputs\Figure_11._uncoupled_dual_osc.png)
 
 
 ### Contact information
