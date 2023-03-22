@@ -13,8 +13,8 @@ This repository contains various scripts to simulate optical oscillators using t
 
 ### Output
 
-![Real and Imagenry Components](.\images_outputs\Figure_1._Transmission_Real_Image_Components.png)
-![Uncoupled dual oscillators](.\images_outputs\Figure_11._uncoupled_dual_osc.png)
+![Real and Imagenry Components](./images_outputs/Figure_1._Transmission_Real_Image_Components.png)
+![Uncoupled dual oscillators](./images_outputs/Figure_11._uncoupled_dual_osc.png)
 
 
 ### Contact information
